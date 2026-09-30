@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs et fichiers d'exécution
+logs_refresh/
+_log_*.txt
+_status_*.json
+log_veille.txt
+
+*.mp4
+*.mov
+*.avi
